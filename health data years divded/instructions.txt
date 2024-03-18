@@ -1,0 +1,11 @@
+the data is from : https://www.england.nhs.uk/statistics/statistical-work-areas/ae-waiting-times-and-activity/ 
+here are precutions worth to note 
+
+1- every file downloaded, changed its name it data. actully it minimized to show the imported informations , for exapmle from this October-2023-AE-by-provider-4uCT2.xls 
+to this October-2023.xls 
+
+
+2- the files are xls .this means they may have diffrent tables.but the only table which is commen with them is provider data.moreover the python only reads first table of a xls files. so that in those files which have several tables and provider table is not its first table , they need to be replaced to its first table.
+
+
+the rest just done by code but its needs to directory fixed to the locall pc and follow the same structure since i used os library to read files.
