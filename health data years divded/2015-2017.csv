@@ -1,68 +1,68 @@
 ,,,A&E attendances,,,,"A&E attendances > 4 hours from arrival to admission, transfer or discharge",,,,,,Emergency Admissions,,,,,,,,
 Code,Region,Name,Type 1 Departments - Major A&E,Type 2 Departments - Single Specialty,Type 3 Departments - Other A&E/Minor Injury Unit,Total attendances,Type 1 Departments - Major A&E,Type 2 Departments - Single Specialty,Type 3 Departments - Other A&E/Minor Injury Unit,Total Attendances > 4 hours,Percentage in 4 hours or less (type 1),Percentage in 4 hours or less (all),Emergency Admissions via Type 1 A&E,Emergency Admissions via Type 2 A&E,Emergency Admissions via Type 3 and 4 A&E,Total Emergency Admissions via A&E,Other Emergency admissions (i.e not via A&E),Total Emergency Admissions,Number of patients spending >4 hours from decision to admit to admission,Number of patients spending >12 hours from decision to admit to admission,dates
-NLW,South Of England Commissioning Region,Bristol Community Health,0,0,5037,5037,0,0,56,56,,0.9888822711931705,0,0,0,0,0,0,0,0,April 2016
-RVJ,South Of England Commissioning Region,North Bristol NHS Trust,6931,0,0,6931,1586,0,0,1586,0.7711729909104026,0.7711729909104026,2271,0,0,2271,1315,3586,605,3,April 2016
-RA7,South Of England Commissioning Region,University Hospitals Bristol NHS Foundation Trust,8634,2056,0,10690,1342,13,0,1355,0.8445679870280287,0.8732460243217961,2630,12,0,2642,672,3314,463,0,April 2016
-NLW,South Of England Commissioning Region,Bristol Community Health,0,0,4636,4636,0,0,18,18,,0.9961173425366695,0,0,0,0,0,0,0,0,August 2015
-RVJ,South Of England Commissioning Region,North Bristol NHS Trust,6967,0,0,6967,318,0,0,318,0.9543562508970863,0.9543562508970863,2293,0,0,2293,1120,3413,78,0,August 2015
-RA7,South Of England Commissioning Region,University Hospitals Bristol NHS Foundation Trust,8076,1789,0,9865,491,7,0,498,0.9392025755324418,0.9495184997465789,2511,9,0,2520,690,3210,150,0,August 2015
-NLW,South Of England Commissioning Region,Bristol Community Health,0,0,5152,5152,0,0,51,51,,0.9901009316770186,0,0,0,0,0,0,0,0,August 2016
-RVJ,South Of England Commissioning Region,North Bristol NHS Trust,7273,0,0,7273,1545,0,0,1545,0.7875704661075209,0.7875704661075209,2540,0,0,2540,1300,3840,611,1,August 2016
-RA7,South Of England Commissioning Region,University Hospitals Bristol NHS Foundation Trust,8378,1945,0,10323,1004,27,0,1031,0.8801623299116734,0.9001259323839969,2650,20,0,2670,700,3370,285,0,August 2016
-NLW,South Of England Commissioning Region,Bristol Community Health,0,0,4857,4857,0,0,32,32,,0.9934115709285567,0,0,0,0,0,0,0,0,December 2015
-RVJ,South Of England Commissioning Region,North Bristol NHS Trust,6839,0,0,6839,1374,0,0,1374,0.7990934347126772,0.7990934347126772,2375,0,0,2375,1198,3573,441,0,December 2015
-RA7,South Of England Commissioning Region,University Hospitals Bristol NHS Foundation Trust,8934,1741,0,10675,1181,0,0,1181,0.8678083725095143,0.889367681498829,2971,12,0,2983,669,3652,337,0,December 2015
-NLW,South Of England Commissioning Region,Bristol Community Health,0,0,4563,4563,0,0,45,45,,0.9901380670611439,0,0,0,0,0,0,0,0,December 2016
-RVJ,South Of England Commissioning Region,North Bristol NHS Trust,6908,0,0,6908,1523,0,0,1523,0.7795309785755645,0.7795309785755645,2323,0,0,2323,1346,3669,638,21,December 2016
-RA7,South Of England Commissioning Region,University Hospitals Bristol NHS Foundation Trust,9091,1767,0,10858,2196,15,0,2211,0.7584424155758442,0.7963713391048075,3021,12,0,3033,661,3694,640,11,December 2016
-NLW,South Of England Commissioning Region,Bristol Community Health,0,0,4938,4938,0,0,57,57,,0.988456865127582,0,0,0,0,0,0,0,0,February 2016
-RVJ,South Of England Commissioning Region,North Bristol NHS Trust,6689,0,0,6689,2039,0,0,2039,0.6951711765585289,0.6951711765585289,2131,0,0,2131,1198,3329,777,0,February 2016
-RA7,South Of England Commissioning Region,University Hospitals Bristol NHS Foundation Trust,8980,1727,0,10707,1682,7,0,1689,0.8126948775055679,0.8422527318576633,2754,8,0,2762,595,3357,603,0,February 2016
-NLW,South Of England Commissioning Region,Bristol Community Health,0,0,4101,4101,0,0,1,1,,0.9997561570348695,0,0,0,0,0,0,0,0,February 2017
-RVJ,South Of England Commissioning Region,North Bristol NHS Trust,6160,0,0,6160,1128,0,0,1128,0.8168831168831169,0.8168831168831169,2097,0,0,2097,1386,3483,601,12,February 2017
-RA7,South Of England Commissioning Region,University Hospitals Bristol NHS Foundation Trust,7904,1603,0,9507,1816,16,0,1832,0.770242914979757,0.807299884295782,2597,10,0,2607,568,3175,579,5,February 2017
-NLW,South Of England Commissioning Region,Bristol Community Health,0,0,4709,4709,0,0,37,37,,0.9921427054576343,0,0,0,0,0,0,0,0,January 2016
-RVJ,South Of England Commissioning Region,North Bristol NHS Trust,6927,0,0,6927,1740,0,0,1740,0.7488090082286705,0.7488090082286705,2394,0,0,2394,1210,3604,843,1,January 2016
-RA7,South Of England Commissioning Region,University Hospitals Bristol NHS Foundation Trust,9043,1734,0,10777,1747,3,0,1750,0.8068118987061816,0.8376171476292104,2962,5,0,2967,547,3514,780,6,January 2016
-NLW,South Of England Commissioning Region,Bristol Community Health,0,0,4856,4856,0,0,1,1,,0.9997940691927513,0,0,0,0,0,0,0,0,January 2017
-RVJ,South Of England Commissioning Region,North Bristol NHS Trust,6687,0,0,6687,1651,0,0,1651,0.75310303574099,0.75310303574099,2380,0,0,2380,1491,3871,776,33,January 2017
-RA7,South Of England Commissioning Region,University Hospitals Bristol NHS Foundation Trust,8566,1668,0,10234,1985,24,0,2009,0.768269904272706,0.8036935704514364,2967,20,0,2987,625,3612,891,19,January 2017
-NLW,South Of England Commissioning Region,Bristol Community Health,0,0,4653,4653,0,0,36,36,,0.9922630560928434,0,0,0,0,0,0,0,0,July 2015
-RVJ,South Of England Commissioning Region,North Bristol NHS Trust,7174,0,0,7174,254,0,0,254,0.9645943685531084,0.9645943685531084,2361,0,0,2361,1250,3611,71,0,July 2015
-RA7,South Of England Commissioning Region,University Hospitals Bristol NHS Foundation Trust,8562,1914,0,10476,467,3,0,470,0.9454566690025695,0.9551355479190531,2618,12,0,2630,719,3349,139,0,July 2015
-NLW,South Of England Commissioning Region,Bristol Community Health,0,0,5306,5306,0,0,124,124,,0.976630229928383,0,0,0,0,0,0,0,0,July 2016
-RVJ,South Of England Commissioning Region,North Bristol NHS Trust,7637,0,0,7637,1572,0,0,1572,0.7941600104753175,0.7941600104753175,2561,0,0,2561,1259,3820,517,2,July 2016
-RA7,South Of England Commissioning Region,University Hospitals Bristol NHS Foundation Trust,9180,1925,0,11105,1159,26,0,1185,0.8737472766884532,0.8932913102206214,2863,16,0,2879,774,3653,236,0,July 2016
-NLW,South of England Commissioning Region,Bristol Community Health,0,0,4664,4664,0,0,30,30,,0.9935677530017153,0,0,0,0,0,0,0,0,June 2015
-RVJ,South of England Commissioning Region,North Bristol NHS Trust,6888,0,0,6888,193,0,0,193,0.9719802555168409,0.9719802555168409,2128,0,0,2128,1412,3540,33,0,June 2015
-RA7,South of England Commissioning Region,University Hospitals Bristol NHS Foundation Trust,8623,1904,0,10527,482,26,0,508,0.9441029804012525,0.9517431366961148,2571,16,0,2587,723,3310,110,0,June 2015
-NLW,South Of England Commissioning Region,Bristol Community Health,0,0,5066,5066,0,0,45,45,,0.9911172522700356,0,0,0,0,0,0,0,0,June 2016
-RVJ,South Of England Commissioning Region,North Bristol NHS Trust,7083,0,0,7083,1262,0,0,1262,0.8218269095016236,0.8218269095016236,2369,0,0,2369,1401,3770,377,1,June 2016
-RA7,South Of England Commissioning Region,University Hospitals Bristol NHS Foundation Trust,8821,1967,0,10788,1173,15,0,1188,0.8670218796054869,0.8898776418242491,2688,14,0,2702,652,3354,413,0,June 2016
-NLW,South Of England Commissioning Region,Bristol Community Health,0,0,5736,5736,0,0,101,101,,0.9823919107391911,0,0,0,0,0,0,0,0,March 2016
-RVJ,South Of England Commissioning Region,North Bristol NHS Trust,7398,0,0,7398,1850,0,0,1850,0.7499324141659909,0.7499324141659909,2410,0,0,2410,1399,3809,733,0,March 2016
-RA7,South Of England Commissioning Region,University Hospitals Bristol NHS Foundation Trust,9803,1887,0,11690,2027,20,0,2047,0.79322656329695,0.8248930710008554,2891,9,0,2900,633,3533,792,9,March 2016
-NLW,South Of England Commissioning Region,Bristol Community Health,0,0,4636,4636,0,0,1,1,,0.9997842968075927,0,0,0,0,0,0,0,0,March 2017
-RVJ,South Of England Commissioning Region,North Bristol NHS Trust,7222,0,0,7222,844,0,0,844,0.883134865688175,0.883134865688175,2324,0,0,2324,1585,3909,414,1,March 2017
-RA7,South Of England Commissioning Region,University Hospitals Bristol NHS Foundation Trust,9307,1947,0,11254,1869,16,0,1885,0.799183410336306,0.8325039985782833,2918,12,0,2930,732,3662,448,0,March 2017
-NLW,South Of England Commissioning Region,Bristol Community Health,0,0,5511,5511,0,0,14,14,,0.9974596262021411,0,0,0,0,0,0,0,0,May 2016
-RVJ,South Of England Commissioning Region,North Bristol NHS Trust,7336,0,0,7336,1749,0,0,1749,0.7615866957470011,0.7615866957470011,2434,0,0,2434,1313,3747,570,1,May 2016
-RA7,South Of England Commissioning Region,University Hospitals Bristol NHS Foundation Trust,9309,1946,0,11255,930,9,0,939,0.9000966806316468,0.9165704131497112,2789,15,0,2804,667,3471,206,1,May 2016
-NLW,South Of England Commissioning Region,Bristol Community Health,0,0,4764,4764,0,0,45,45,,0.9905541561712846,0,0,0,0,0,0,0,0,November 2015
-RVJ,South Of England Commissioning Region,North Bristol NHS Trust,6786,0,0,6786,1338,0,0,1338,0.8028293545534925,0.8028293545534925,2390,0,0,2390,1183,3573,415,0,November 2015
-RA7,South Of England Commissioning Region,University Hospitals Bristol NHS Foundation Trust,9157,1766,0,10923,1133,3,0,1136,0.8762695205853446,0.8959992676004761,2870,15,0,2885,632,3517,256,0,November 2015
-NLW,South Of England Commissioning Region,Bristol Community Health,0,0,4542,4542,0,0,57,57,,0.987450462351387,0,0,0,0,0,0,0,0,November 2016
-RVJ,South Of England Commissioning Region,North Bristol NHS Trust,6748,0,0,6748,1301,0,0,1301,0.8072021339656195,0.8072021339656195,2444,0,0,2444,1469,3913,554,0,November 2016
-RA7,South Of England Commissioning Region,University Hospitals Bristol NHS Foundation Trust,9625,1801,0,11426,2445,17,0,2462,0.745974025974026,0.784526518466655,3064,4,0,3068,610,3678,875,1,November 2016
-NLW,South Of England Commissioning Region,Bristol Community Health,0,0,4802,4802,0,0,56,56,,0.9883381924198251,0,0,0,0,0,0,0,0,October 2015
-RVJ,South Of England Commissioning Region,North Bristol NHS Trust,7318,0,0,7318,1000,0,0,1000,0.8633506422519814,0.8633506422519814,2428,0,0,2428,1125,3553,482,0,October 2015
-RA7,South Of England Commissioning Region,University Hospitals Bristol NHS Foundation Trust,9184,1822,0,11006,849,14,0,863,0.9075566202090593,0.9215882246047611,2813,11,0,2824,666,3490,230,0,October 2015
-NLW,South Of England Commissioning Region,Bristol Community Health,0,0,5034,5034,0,0,56,56,,0.988875645609853,0,0,0,0,0,0,0,0,October 2016
-RVJ,South Of England Commissioning Region,North Bristol NHS Trust,7515,0,0,7515,1761,0,0,1761,0.7656686626746507,0.7656686626746507,2567,0,0,2567,1405,3972,845,5,October 2016
-RA7,South Of England Commissioning Region,University Hospitals Bristol NHS Foundation Trust,9378,1908,0,11286,1888,37,0,1925,0.7986777564512689,0.8294346978557505,2940,13,0,2953,637,3590,720,2,October 2016
-NLW,South Of England Commissioning Region,Bristol Community Health,0,0,4955,4955,0,0,44,44,,0.9911200807265389,0,0,0,0,0,0,0,0,September 2015
-RVJ,South Of England Commissioning Region,North Bristol NHS Trust,7049,0,0,7049,808,0,0,808,0.8853738118882111,0.8853738118882111,2305,0,0,2305,1175,3480,307,0,September 2015
-RA7,South Of England Commissioning Region,University Hospitals Bristol NHS Foundation Trust,8563,1768,0,10331,855,4,0,859,0.9001518159523532,0.9168521924305488,2725,13,0,2738,650,3388,293,0,September 2015
-NLW,South Of England Commissioning Region,Bristol Community Health,0,0,5073,5073,0,0,79,79,,0.9844273605361719,0,0,0,0,0,0,0,0,September 2016
-RVJ,South Of England Commissioning Region,North Bristol NHS Trust,7329,0,0,7329,1194,0,0,1194,0.8370855505525993,0.8370855505525993,2598,0,0,2598,1247,3845,393,3,September 2016
-RA7,South Of England Commissioning Region,University Hospitals Bristol NHS Foundation Trust,8753,1889,0,10642,1334,14,0,1348,0.847595110247915,0.8733320804360083,2712,15,0,2727,672,3399,347,1,September 2016
+NLW,South Of England Commissioning Region,Bristol Community Health,0,0,5037,5037,0,0,56,56,,0.9888822711931705,0,0,0,0,0,0,0,0,April-2016
+RVJ,South Of England Commissioning Region,North Bristol NHS Trust,6931,0,0,6931,1586,0,0,1586,0.7711729909104026,0.7711729909104026,2271,0,0,2271,1315,3586,605,3,April-2016
+RA7,South Of England Commissioning Region,University Hospitals Bristol NHS Foundation Trust,8634,2056,0,10690,1342,13,0,1355,0.8445679870280287,0.8732460243217961,2630,12,0,2642,672,3314,463,0,April-2016
+NLW,South Of England Commissioning Region,Bristol Community Health,0,0,4636,4636,0,0,18,18,,0.9961173425366695,0,0,0,0,0,0,0,0,August-2015
+RVJ,South Of England Commissioning Region,North Bristol NHS Trust,6967,0,0,6967,318,0,0,318,0.9543562508970863,0.9543562508970863,2293,0,0,2293,1120,3413,78,0,August-2015
+RA7,South Of England Commissioning Region,University Hospitals Bristol NHS Foundation Trust,8076,1789,0,9865,491,7,0,498,0.9392025755324418,0.9495184997465789,2511,9,0,2520,690,3210,150,0,August-2015
+NLW,South Of England Commissioning Region,Bristol Community Health,0,0,5152,5152,0,0,51,51,,0.9901009316770186,0,0,0,0,0,0,0,0,August-2016
+RVJ,South Of England Commissioning Region,North Bristol NHS Trust,7273,0,0,7273,1545,0,0,1545,0.7875704661075209,0.7875704661075209,2540,0,0,2540,1300,3840,611,1,August-2016
+RA7,South Of England Commissioning Region,University Hospitals Bristol NHS Foundation Trust,8378,1945,0,10323,1004,27,0,1031,0.8801623299116734,0.9001259323839969,2650,20,0,2670,700,3370,285,0,August-2016
+NLW,South Of England Commissioning Region,Bristol Community Health,0,0,4857,4857,0,0,32,32,,0.9934115709285567,0,0,0,0,0,0,0,0,December-2015
+RVJ,South Of England Commissioning Region,North Bristol NHS Trust,6839,0,0,6839,1374,0,0,1374,0.7990934347126772,0.7990934347126772,2375,0,0,2375,1198,3573,441,0,December-2015
+RA7,South Of England Commissioning Region,University Hospitals Bristol NHS Foundation Trust,8934,1741,0,10675,1181,0,0,1181,0.8678083725095143,0.889367681498829,2971,12,0,2983,669,3652,337,0,December-2015
+NLW,South Of England Commissioning Region,Bristol Community Health,0,0,4563,4563,0,0,45,45,,0.9901380670611439,0,0,0,0,0,0,0,0,December-2016
+RVJ,South Of England Commissioning Region,North Bristol NHS Trust,6908,0,0,6908,1523,0,0,1523,0.7795309785755645,0.7795309785755645,2323,0,0,2323,1346,3669,638,21,December-2016
+RA7,South Of England Commissioning Region,University Hospitals Bristol NHS Foundation Trust,9091,1767,0,10858,2196,15,0,2211,0.7584424155758442,0.7963713391048075,3021,12,0,3033,661,3694,640,11,December-2016
+NLW,South Of England Commissioning Region,Bristol Community Health,0,0,4938,4938,0,0,57,57,,0.988456865127582,0,0,0,0,0,0,0,0,February-2016
+RVJ,South Of England Commissioning Region,North Bristol NHS Trust,6689,0,0,6689,2039,0,0,2039,0.6951711765585289,0.6951711765585289,2131,0,0,2131,1198,3329,777,0,February-2016
+RA7,South Of England Commissioning Region,University Hospitals Bristol NHS Foundation Trust,8980,1727,0,10707,1682,7,0,1689,0.8126948775055679,0.8422527318576633,2754,8,0,2762,595,3357,603,0,February-2016
+NLW,South Of England Commissioning Region,Bristol Community Health,0,0,4101,4101,0,0,1,1,,0.9997561570348695,0,0,0,0,0,0,0,0,February-2017
+RVJ,South Of England Commissioning Region,North Bristol NHS Trust,6160,0,0,6160,1128,0,0,1128,0.8168831168831169,0.8168831168831169,2097,0,0,2097,1386,3483,601,12,February-2017
+RA7,South Of England Commissioning Region,University Hospitals Bristol NHS Foundation Trust,7904,1603,0,9507,1816,16,0,1832,0.770242914979757,0.807299884295782,2597,10,0,2607,568,3175,579,5,February-2017
+NLW,South Of England Commissioning Region,Bristol Community Health,0,0,4709,4709,0,0,37,37,,0.9921427054576343,0,0,0,0,0,0,0,0,January-2016
+RVJ,South Of England Commissioning Region,North Bristol NHS Trust,6927,0,0,6927,1740,0,0,1740,0.7488090082286705,0.7488090082286705,2394,0,0,2394,1210,3604,843,1,January-2016
+RA7,South Of England Commissioning Region,University Hospitals Bristol NHS Foundation Trust,9043,1734,0,10777,1747,3,0,1750,0.8068118987061816,0.8376171476292104,2962,5,0,2967,547,3514,780,6,January-2016
+NLW,South Of England Commissioning Region,Bristol Community Health,0,0,4856,4856,0,0,1,1,,0.9997940691927513,0,0,0,0,0,0,0,0,January-2017
+RVJ,South Of England Commissioning Region,North Bristol NHS Trust,6687,0,0,6687,1651,0,0,1651,0.75310303574099,0.75310303574099,2380,0,0,2380,1491,3871,776,33,January-2017
+RA7,South Of England Commissioning Region,University Hospitals Bristol NHS Foundation Trust,8566,1668,0,10234,1985,24,0,2009,0.768269904272706,0.8036935704514364,2967,20,0,2987,625,3612,891,19,January-2017
+NLW,South Of England Commissioning Region,Bristol Community Health,0,0,4653,4653,0,0,36,36,,0.9922630560928434,0,0,0,0,0,0,0,0,July-2015
+RVJ,South Of England Commissioning Region,North Bristol NHS Trust,7174,0,0,7174,254,0,0,254,0.9645943685531084,0.9645943685531084,2361,0,0,2361,1250,3611,71,0,July-2015
+RA7,South Of England Commissioning Region,University Hospitals Bristol NHS Foundation Trust,8562,1914,0,10476,467,3,0,470,0.9454566690025695,0.9551355479190531,2618,12,0,2630,719,3349,139,0,July-2015
+NLW,South Of England Commissioning Region,Bristol Community Health,0,0,5306,5306,0,0,124,124,,0.976630229928383,0,0,0,0,0,0,0,0,July-2016
+RVJ,South Of England Commissioning Region,North Bristol NHS Trust,7637,0,0,7637,1572,0,0,1572,0.7941600104753175,0.7941600104753175,2561,0,0,2561,1259,3820,517,2,July-2016
+RA7,South Of England Commissioning Region,University Hospitals Bristol NHS Foundation Trust,9180,1925,0,11105,1159,26,0,1185,0.8737472766884532,0.8932913102206214,2863,16,0,2879,774,3653,236,0,July-2016
+NLW,South of England Commissioning Region,Bristol Community Health,0,0,4664,4664,0,0,30,30,,0.9935677530017153,0,0,0,0,0,0,0,0,June-2015
+RVJ,South of England Commissioning Region,North Bristol NHS Trust,6888,0,0,6888,193,0,0,193,0.9719802555168409,0.9719802555168409,2128,0,0,2128,1412,3540,33,0,June-2015
+RA7,South of England Commissioning Region,University Hospitals Bristol NHS Foundation Trust,8623,1904,0,10527,482,26,0,508,0.9441029804012525,0.9517431366961148,2571,16,0,2587,723,3310,110,0,June-2015
+NLW,South Of England Commissioning Region,Bristol Community Health,0,0,5066,5066,0,0,45,45,,0.9911172522700356,0,0,0,0,0,0,0,0,June-2016
+RVJ,South Of England Commissioning Region,North Bristol NHS Trust,7083,0,0,7083,1262,0,0,1262,0.8218269095016236,0.8218269095016236,2369,0,0,2369,1401,3770,377,1,June-2016
+RA7,South Of England Commissioning Region,University Hospitals Bristol NHS Foundation Trust,8821,1967,0,10788,1173,15,0,1188,0.8670218796054869,0.8898776418242491,2688,14,0,2702,652,3354,413,0,June-2016
+NLW,South Of England Commissioning Region,Bristol Community Health,0,0,5736,5736,0,0,101,101,,0.9823919107391911,0,0,0,0,0,0,0,0,March-2016
+RVJ,South Of England Commissioning Region,North Bristol NHS Trust,7398,0,0,7398,1850,0,0,1850,0.7499324141659909,0.7499324141659909,2410,0,0,2410,1399,3809,733,0,March-2016
+RA7,South Of England Commissioning Region,University Hospitals Bristol NHS Foundation Trust,9803,1887,0,11690,2027,20,0,2047,0.79322656329695,0.8248930710008554,2891,9,0,2900,633,3533,792,9,March-2016
+NLW,South Of England Commissioning Region,Bristol Community Health,0,0,4636,4636,0,0,1,1,,0.9997842968075927,0,0,0,0,0,0,0,0,March-2017
+RVJ,South Of England Commissioning Region,North Bristol NHS Trust,7222,0,0,7222,844,0,0,844,0.883134865688175,0.883134865688175,2324,0,0,2324,1585,3909,414,1,March-2017
+RA7,South Of England Commissioning Region,University Hospitals Bristol NHS Foundation Trust,9307,1947,0,11254,1869,16,0,1885,0.799183410336306,0.8325039985782833,2918,12,0,2930,732,3662,448,0,March-2017
+NLW,South Of England Commissioning Region,Bristol Community Health,0,0,5511,5511,0,0,14,14,,0.9974596262021411,0,0,0,0,0,0,0,0,May-2016
+RVJ,South Of England Commissioning Region,North Bristol NHS Trust,7336,0,0,7336,1749,0,0,1749,0.7615866957470011,0.7615866957470011,2434,0,0,2434,1313,3747,570,1,May-2016
+RA7,South Of England Commissioning Region,University Hospitals Bristol NHS Foundation Trust,9309,1946,0,11255,930,9,0,939,0.9000966806316468,0.9165704131497112,2789,15,0,2804,667,3471,206,1,May-2016
+NLW,South Of England Commissioning Region,Bristol Community Health,0,0,4764,4764,0,0,45,45,,0.9905541561712846,0,0,0,0,0,0,0,0,November-2015
+RVJ,South Of England Commissioning Region,North Bristol NHS Trust,6786,0,0,6786,1338,0,0,1338,0.8028293545534925,0.8028293545534925,2390,0,0,2390,1183,3573,415,0,November-2015
+RA7,South Of England Commissioning Region,University Hospitals Bristol NHS Foundation Trust,9157,1766,0,10923,1133,3,0,1136,0.8762695205853446,0.8959992676004761,2870,15,0,2885,632,3517,256,0,November-2015
+NLW,South Of England Commissioning Region,Bristol Community Health,0,0,4542,4542,0,0,57,57,,0.987450462351387,0,0,0,0,0,0,0,0,November-2016
+RVJ,South Of England Commissioning Region,North Bristol NHS Trust,6748,0,0,6748,1301,0,0,1301,0.8072021339656195,0.8072021339656195,2444,0,0,2444,1469,3913,554,0,November-2016
+RA7,South Of England Commissioning Region,University Hospitals Bristol NHS Foundation Trust,9625,1801,0,11426,2445,17,0,2462,0.745974025974026,0.784526518466655,3064,4,0,3068,610,3678,875,1,November-2016
+NLW,South Of England Commissioning Region,Bristol Community Health,0,0,4802,4802,0,0,56,56,,0.9883381924198251,0,0,0,0,0,0,0,0,October-2015
+RVJ,South Of England Commissioning Region,North Bristol NHS Trust,7318,0,0,7318,1000,0,0,1000,0.8633506422519814,0.8633506422519814,2428,0,0,2428,1125,3553,482,0,October-2015
+RA7,South Of England Commissioning Region,University Hospitals Bristol NHS Foundation Trust,9184,1822,0,11006,849,14,0,863,0.9075566202090593,0.9215882246047611,2813,11,0,2824,666,3490,230,0,October-2015
+NLW,South Of England Commissioning Region,Bristol Community Health,0,0,5034,5034,0,0,56,56,,0.988875645609853,0,0,0,0,0,0,0,0,October-2016
+RVJ,South Of England Commissioning Region,North Bristol NHS Trust,7515,0,0,7515,1761,0,0,1761,0.7656686626746507,0.7656686626746507,2567,0,0,2567,1405,3972,845,5,October-2016
+RA7,South Of England Commissioning Region,University Hospitals Bristol NHS Foundation Trust,9378,1908,0,11286,1888,37,0,1925,0.7986777564512689,0.8294346978557505,2940,13,0,2953,637,3590,720,2,October-2016
+NLW,South Of England Commissioning Region,Bristol Community Health,0,0,4955,4955,0,0,44,44,,0.9911200807265389,0,0,0,0,0,0,0,0,September-2015
+RVJ,South Of England Commissioning Region,North Bristol NHS Trust,7049,0,0,7049,808,0,0,808,0.8853738118882111,0.8853738118882111,2305,0,0,2305,1175,3480,307,0,September-2015
+RA7,South Of England Commissioning Region,University Hospitals Bristol NHS Foundation Trust,8563,1768,0,10331,855,4,0,859,0.9001518159523532,0.9168521924305488,2725,13,0,2738,650,3388,293,0,September-2015
+NLW,South Of England Commissioning Region,Bristol Community Health,0,0,5073,5073,0,0,79,79,,0.9844273605361719,0,0,0,0,0,0,0,0,September-2016
+RVJ,South Of England Commissioning Region,North Bristol NHS Trust,7329,0,0,7329,1194,0,0,1194,0.8370855505525993,0.8370855505525993,2598,0,0,2598,1247,3845,393,3,September-2016
+RA7,South Of England Commissioning Region,University Hospitals Bristol NHS Foundation Trust,8753,1889,0,10642,1334,14,0,1348,0.847595110247915,0.8733320804360083,2712,15,0,2727,672,3399,347,1,September-2016
