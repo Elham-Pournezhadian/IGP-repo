@@ -9,9 +9,3 @@ to this October-2023.xls
 
 
 the rest just done by code but its needs to directory fixed to the locall pc and follow the same structure since i used os library to read files.
-
-there have been four steps to get clean health data 
-
-1,2,3 merging data of the similar structure which makes 3 diffrent out put 205-2017 2017-2018 2018-2024
-
-4 merging all three tables to one clean table 2015-2016
